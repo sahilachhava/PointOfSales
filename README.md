@@ -7,7 +7,7 @@ as Personal Project <br /><br />
 
 **Screenshots**
 
-Point of Sales System GUI_<br />
+_Point of Sales System GUI_<br />
 
 ![Homepage](https://github.com/sahilachhava/PointOfSales/blob/main/screenshots/main.png)<br />
 
